@@ -1,1 +1,1 @@
-# Mimot
+Assignment 1
