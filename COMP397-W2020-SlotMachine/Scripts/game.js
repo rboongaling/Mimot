@@ -2,7 +2,7 @@
 //Name : Ralph Royce Boongaling
 //Student Number: 301100805
 //Creation Date: February 2020
-//Game App Description: This is a simple Slot Machine with a set of reels that will spin and stop by pressing the button.
+//Game App Description: This is a simple Slot Machine with a set of reels that will spin by clicking a button.
 
 
 var canvas; // Reference to the HTML 5 Canvas element
